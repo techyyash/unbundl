@@ -1,5 +1,6 @@
 Web Development -Assignment
-Task 1: Create a Product Carousel for Featured Products
+
+<p>Task 1: Create a Product Carousel for Featured Products
 Objective: Develop a responsive and product carousel to showcase featured
 products. The carousel should automatically rotate through the featured
 products and allow for manual navigation as well.
@@ -10,7 +11,9 @@ navigation using arrow buttons.
 screen sizes and devices.
 4. Provide a brief explanation of your approach, including any tools or
 frameworks used, and the reasoning behind your choices.
-For reference/example, please check https://saralhome.com/
+For reference/example, please check https://saralhome.com/ <p>
+
+
 Task 2: Develop a Customizable Product Bundle for Chocolate brand.
 Objective: Create a feature that allows customers to build a custom pack of 8
 items, consisting of a combination of different chocolates. The total number of
